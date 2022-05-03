@@ -30,7 +30,7 @@ header, footer {
 
 header {
   font-family: 'Merriweather', serif;
-  color: black;
+  color: white;
   min-height: 100vh;
   display: flex;
   background-image: url('../images/milenFace.jpg');
@@ -51,7 +51,7 @@ main {
 
 h1 {
   font-family: 'Lora', serif;
-  color: black;
+  color: white;
   font-size: calc(1em + 3vw);
   padding-bottom: .67em;
   border-bottom: 1px solid;
@@ -60,7 +60,7 @@ h1 {
 
 h2 {
   font-family: 'Lora', serif;
-  color: black;
+  color: white;
   font-size: 18px;
   font-weight: 600;
   letter-spacing: 0.3px;
@@ -83,7 +83,7 @@ img {
 }
 
 .bio {
-  color: black;
+  color: white;
   font-size: 24px;
   font-family: 'Merriweather', serif;
 }
@@ -92,14 +92,14 @@ img {
   display: flex;
   justify-content: center;
   align-content: center;
-  color: black;
+  color: white;
 }
 
 .myButton {
   border-radius: 28px;
   border: 1px solid #ffffff;
   cursor: pointer;
-  color: black;
+  color: white;
   font-size: 20px;
   padding: 16px 31px;
   text-decoration: none;
